@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 27px; 
+ }
+ #tiya-color{
+    color: chartreuse;
+}
+.flexible-contaner{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 1000px;
+    padding-left: 10%;
+    
+}
+.half img{
+    width: 60%;
+    padding-left: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(235, 171, 52),rgb(231, 49, 17));
+    padding: 10px 40px;
+    border-radius: 50px;  
+    font-weight: 750;
+    
