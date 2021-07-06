@@ -39,6 +39,8 @@ h1{
 
 .textlast{
     text-align: center;
+    margin-bottom: 90px;
+
 }
 .recipie{
     width: 50%;
@@ -58,4 +60,6 @@ h1{
 #lastcolor{
     background-color: rgb(39, 39, 44);
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
