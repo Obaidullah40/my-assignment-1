@@ -14,7 +14,10 @@ h1{
 .half-width{
     width: 1000px;
     padding-left: 10%;
-    
+    margin-top: 130px;
+}
+h1{
+    font-size: 50px;
 }
 .half img{
     width: 60%;
@@ -24,13 +27,14 @@ h1{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(rgb(235, 171, 52),rgb(231, 49, 17));
-    padding: 10px 40px;
+    padding: 14px 40px;
     border-radius: 50px;  
     font-weight: 750;
 }
 .maskan{
     background-image: url(pic/7.png);
     background-repeat: no-repeat;
+
 }
 
 .textlast{
