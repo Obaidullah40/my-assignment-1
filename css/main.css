@@ -33,7 +33,7 @@ h1{
     background-repeat: no-repeat;
 }
 
-#textlast{
+.textlast{
     text-align: center;
 }
 .recipie{
@@ -43,6 +43,11 @@ h1{
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 8px 8px 7px 7px rgb(75, 41, 41);
+    
+}
+.imgs{
+    border-radius: 250px;
+
     
 }
 #lastcolor{
