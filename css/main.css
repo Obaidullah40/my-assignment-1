@@ -36,3 +36,12 @@ h1{
 #textlast{
     text-align: center;
 }
+.recipie{
+    width: 50%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 7px 7px rgb(24, 24, 24);
+    
+}
